@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YouCode",
+        "type": "ecole",
+        "description" : "une ecole de programmation"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.522072349645327,
+          32.246463155962985
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe royal",
+        "type": "cafe",
+        "description": "Internet rapide et bon service"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.53818638029972,
+          32.24071641729785
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "piscine",
+        "type": "piscine",
+        "description": "propre piscine avec un prix raisonable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.535049946959276,
+          32.239656918615125
+        ]
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Roma",
+        "type": "cafe",
+        "description": "Bon service"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.539233065472843,
+          32.24023766975627
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pharmacie amhar",
+        "type": "pharmacie",
+        "description": "Pharmacie amhar"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.535479947538334,
+          32.24186236121062
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pharmacie Annour",
+        "type": "pharmacie",
+        "description": "Parmacie annour"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.532665860125547,
+          32.237039765623194
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    }
+  ]
+}
